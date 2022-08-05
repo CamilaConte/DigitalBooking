@@ -5,4 +5,10 @@ Se trata de un sitio para realizar reservas en alojamientos. Allí podemos regis
 
 Se puede ver la mayor parte del funcionamiento del sitio en el siguiente link: https://www.linkedin.com/feed/update/urn:li:activity:6953334163689156608/
 
-
+Los integrantes del equipo fueron:
+- Mabel Gabriela Ortega
+- María Celeste García Conde
+- Elias Paladino
+- Florencia Mansilla
+- Luisa Cardona Ríos
+- Camila Lorena Conte
